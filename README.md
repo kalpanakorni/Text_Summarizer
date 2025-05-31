@@ -1,4 +1,4 @@
-company name: codetech it solutions name: kalpana korni interid: CT04DM636 domain: Artificial Intelligence duration: 4 weeks mentor : neela santosh
+company name: codetech it solutions name: kalpana korni intern id: CT04DM636 domain: Artificial Intelligence duration: 4 weeks mentor : neela santosh
 
 Automatic extraction based on weighting This approach treats sentences as ordered sequences and words as ordered sequences within sentences. It follows four fundamental steps:
 o Weighting of words o Weighting of sentences o Choosing all sentences above a certain weight threshold o Ordering the selected sentences as they appear in the original article
