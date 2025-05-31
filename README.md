@@ -1,4 +1,10 @@
-# Text Summarizer
+company name: codetech it solutions
+name: kalpana korni 
+intern id: CT04DM636
+domain: Artificial Intelligence
+duration: 4 weeks
+mentor : neela santosh
+
 
 [Try the web application here.](http://anweasha.pythonanywhere.com/Summarize)
 
